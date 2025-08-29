@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:12
+#EXTINF:5.000000,
+bein1_watermarked12.ts
+#EXTINF:5.000000,
+bein1_watermarked13.ts
+#EXTINF:5.000000,
+bein1_watermarked14.ts
+#EXTINF:2.500000,
+bein1_watermarked15.ts
+#EXTINF:4.340000,
+bein1_watermarked16.ts
+#EXT-X-ENDLIST
