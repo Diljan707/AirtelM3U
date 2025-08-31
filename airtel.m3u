@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="197176" tvg-name="Bein Sports 1" tvg-logo="https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png" group-title="Sports", Bein Sports 1
+#EXTINF:-1 tvg-id="197176" tvg-name="||AU|| Bein Sports 1 ᴴᴰ" tvg-logo="https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png" group-title="|AU| ✪ AUSTRALIA", Bein Sports 1 ᴴᴰ
 http://192.168.31.149:9200/bein1.m3u8
 #EXTINF:-1 tvg-id="197176" tvg-name="|AU|  BEIN SPORTS 1" tvg-logo="https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png" group-title="|AU| ✪ AUSTRALIA",|AU|  BEIN SPORTS 1
 https://allinonereborn.fun/airtel.m3u8?id=197176
